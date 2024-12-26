@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tegakay
 - 👀 I’m interested in Front end web Development 
-- 🌱 I’m currently learning TypeScript and CI/CD pipelines
+
 - 💞️ I’m looking to collaborate on React Focused projects
 - 📫 How to reach me twitter.com/tega_kay
 - 👀 [https://rainbow-swan-473fcb.netlify.app](https://unique-dolphin-ae1dff.netlify.app/)
